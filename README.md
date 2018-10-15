@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hi Humans,
+Don't you think ginger cats are the best?
